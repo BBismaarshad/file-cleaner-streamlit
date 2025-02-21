@@ -23,22 +23,8 @@ You can install the necessary Python packages using the following:
 
 ```cmd
 pip install streamlit pandas
-
 How to Run the App
 Clone this repository:
 cmd
 Copy
-git clone https://github.com/BBismaarshad/file-cleaner-streamlit.git
-Navigate to the project directory:
-cd app.py
-Run the Streamlit app:
-streamlit run app.py
-Open your browser and go to http://localhost:8501 to start using the app.
-Usage
-Upload Your Files: Click on the upload button to select CSV or Excel files from your local storage.
-Clean Your Data: Use the options to remove duplicates and fill missing values in your dataset.
-Visualize Your Data: View the bar charts generated for the numerical columns of your data.
-Choose Columns: Select specific columns you want to keep or remove from the data.
-Convert & Download: After cleaning, convert your file back to CSV or Excel format and download it.
-Contributing
-Feel free to fork this repository, contribute improvements, or open issues for bugs and feature requests.
+git clone https://github.com/yourusername/data-sweeper.git
